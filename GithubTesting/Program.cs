@@ -11,7 +11,7 @@ namespace GithubTesting
         static void Main(string[] args)
         {
             Console.WriteLine("This is a simple project not version controlled from the beginning");
-            Console.WriteLine("But it will be ...");
+            Console.WriteLine("But it will be . ..");
         }
     }
 }
